@@ -1,0 +1,1 @@
+This Jupyter Notebook analyzes the green cover vs the build up regions of New Delhi District using the open source data from OSM. It also utilizes the open library OSMnx to retrieve other data which can be utilized for spatial analysis like road network and POI's.
